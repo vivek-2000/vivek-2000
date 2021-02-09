@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-2000&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-2000" /> </p>
 
-- 🔭 I’m currently working on **Recently, I am much involved in the backend development.**
+- 🔭 I am much involved in the backend development.**
 
 - 🌱 I’m currently learning **Flask**
 
