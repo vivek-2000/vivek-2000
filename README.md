@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **python, flask, web scraping, selenium**
+- 💬 Ask me about **python, flask,data structures and algorithms, web scraping, selenium**
 
 - 📫 How to reach me **parthikpatel2000@gmail.com**
 
