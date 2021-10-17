@@ -5,7 +5,7 @@
 
 - 🔭 I am much involved in the backend development.**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **python, flask,data structures and algorithms, web scraping, selenium**
 
