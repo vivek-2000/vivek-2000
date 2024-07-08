@@ -5,9 +5,9 @@
 
 - 🔭 I am much involved in the backend development.**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working on **Fast API**
 
-- 💬 Ask me about **python, flask,data structures and algorithms, web scraping, selenium**
+- 💬 Ask me about **python, FAst API,data structures and algorithms, web scraping, selenium**
 
 - 📫 How to reach me **parthikpatel2000@gmail.com**
 
